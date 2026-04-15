@@ -1,10 +1,11 @@
- # 🧩 Todo Card UI — Accessible & Testable Frontend Project
+# 🧩 Todo Card UI — Accessible & Testable Frontend Project
 
 ## 🚀 Overview
 
 This project is a **responsive and accessible Todo Card UI** built using **HTML, CSS, and vanilla JavaScript**.
 
 It was created as a frontend development exercise focusing on:
+
 - Semantic HTML structure
 - Accessibility best practices (ARIA + screen reader support)
 - Testable UI design using `data-testid`
@@ -31,17 +32,17 @@ It was created as a frontend development exercise focusing on:
 
 This project includes all required `data-testid` attributes for automated testing:
 
-- test-todo-card  
-- test-todo-title  
-- test-todo-description  
-- test-todo-priority  
-- test-todo-due-date  
-- test-todo-time-remaining  
-- test-todo-status  
-- test-todo-complete-toggle  
-- test-todo-tags  
-- test-todo-edit-button  
-- test-todo-delete-button  
+- test-todo-card
+- test-todo-title
+- test-todo-description
+- test-todo-priority
+- test-todo-due-date
+- test-todo-time-remaining
+- test-todo-status
+- test-todo-complete-toggle
+- test-todo-tags
+- test-todo-edit-button
+- test-todo-delete-button
 
 ---
 
@@ -89,12 +90,13 @@ This project includes all required `data-testid` attributes for automated testin
 
 ## 📸 Preview
 
-> Screenshots will be added soon after initial submission.
+### Tablet View
 
-Planned updates:
-- Desktop view
-- Mobile view
-- Interaction states (checked/completed tasks)
+![Tablet](./Screenshots/tablet.png)
+
+### Mobile View
+
+## ![Mobile](./Screenshots/mobile.png)
 
 ---
 
@@ -115,4 +117,3 @@ Planned updates:
 Built by: **Olamide Tobun**
 
 Frontend Developer (Aspiring)
-
